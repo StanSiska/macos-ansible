@@ -14,8 +14,8 @@ trackpad_tap_to_click: yes
 
 screensaver_ask_for_password: yes
 screensaver_ask_for_password_in_seconds: 3
-keyboard_repeat_rate_in_seconds:  10
-keyboard_repeat_delay_in_mseconds: 1
+keyboard_repeat_rate_in_seconds: 10
+keyboard_repeat_delay_in_mseconds: 5
 shell_path: /bin/zsh
 
 homebrew_taps:
